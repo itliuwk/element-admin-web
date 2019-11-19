@@ -1,0 +1,4 @@
+[1011/142109.312:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: 操作成功完成。 (0x0)
+[1105/055259.154:ERROR:process_info.cc(359)] UncheckedAllocate
+[1105/055259.227:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name metrics_client_id, discarding value d5c71fce91124fb097a28f876ad57e3a
+[1105/055320.255:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: 操作成功完成。 (0x0)
